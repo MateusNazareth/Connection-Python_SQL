@@ -1,2 +1,2 @@
 # Connection-Python_SQL
-This repo contais ways of integrate python, SQL and Excel.
+This repo contains some options to integrate python, SQL and Excel.
